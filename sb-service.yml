@@ -12,7 +12,7 @@ spring:
     hibernate: 
       ddl-auto: update
  
-greetingLanguage: English
+greetingLanguage: English2
 ---
 spring: 
   profiles: dev
